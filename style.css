@@ -7,6 +7,8 @@ a:hover {
   color: #ffc107;
 }
 
+.social-icon:hover { color: #ffc107; }
+
 body {
   font-family: "Nunito", sans-serif;
   color: #000;
