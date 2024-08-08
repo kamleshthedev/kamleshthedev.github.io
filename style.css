@@ -66,10 +66,17 @@ img {
   background-position: 0px 0px;
   background-repeat: no-repeat;
 }
-.img-custom {
-  height: 320px;
+.img-app {
+  height: 620px;
   width: 100%;
   object-fit: cover;
+  object-position: top;
+}
+.img-design {
+  height: 280px;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
 }
 
 @media (max-width: 544px) {
